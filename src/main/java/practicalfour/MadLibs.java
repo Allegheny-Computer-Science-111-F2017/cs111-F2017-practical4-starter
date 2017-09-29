@@ -10,7 +10,7 @@ public class MadLibs {
   public static void main(String[] args) {
     // display the name of the programmer and the date
     System.out.println("Gregory M. Kapfhammer " + new Date());
-    // declare the starting file and scanner
+    // declare the MadLibs input file and scanner
     File madInputsFile = null;
     Scanner scanner = null;
     // connect the scanner to the input file
